@@ -1,0 +1,10 @@
+[user]
+    name = Nguyễn Văn Dũng
+    email = dungnv@vnpay.vn
+
+[credential]
+    helper = store
+
+[http "https://git-partner.vnpay.vn/users/sign_in"]
+    username = anht-ops
+    password = Winter2025@VNPAY
